@@ -1,2 +1,2 @@
 # Coin Flip (basic version)
-Simple Coin Flip DAPP, with pesudo random number.
+Simple Ethereum DAPP, Coin Flip game, with pesudo random number.
